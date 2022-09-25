@@ -8,7 +8,8 @@
 <li>python 2.7</li>
 <li>d3.v3.js</li>
 <li>echarts 5.3.3</li>
-
+<li>jquery</li>
+<li>dat.Gui</li>
 
 <h1>项目启动:</h1>
 <li>dyn-Vis-System.py</li>
