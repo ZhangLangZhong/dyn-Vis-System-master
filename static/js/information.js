@@ -148,6 +148,7 @@ function InfChart() {
     };
 
     function drawGraph(type) {
+        console.log(type)
         var item_div;
         switch (type) {
             case "度分布":

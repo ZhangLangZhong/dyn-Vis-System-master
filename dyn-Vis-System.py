@@ -60,7 +60,7 @@ def get_initial_data():
             result = json.load(fi)
             return jsonify(result)
     except:
-        print 'error'
+        print('error')
         return jsonify({})
 
 
@@ -84,7 +84,7 @@ def get_back_layout_data():
                 calNetwork.cal_characters_arguments(result)
                 return jsonify(result)
     except:
-        print 'error'
+        print('error')
         return jsonify({})
 
 

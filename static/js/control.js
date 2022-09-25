@@ -60,6 +60,7 @@ function ControlChart() {
     node_opacity.onFinishChange(function (value) {
         now_layout.setNodeOpacity(value);
     });
+
     var f2 = gui.addFolder('边');
     var edge_all = f2.add(obj, '修改所有边').listen();
     var edge_width = f2.add(obj, '边宽度').min(1).max(4).step(0.1);
