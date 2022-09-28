@@ -26,7 +26,7 @@
 
 <h1>dyn-Vis-System效果图</h1>
 
-![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/1.PNG)
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/8.PNG)
 
 
 <h1>力导向图</h1>
@@ -34,4 +34,26 @@
 ![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/2.PNG)
 
 
+<h1>系统类图</h1>
 
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/9.PNG)
+
+<h1>主图设计</h1>
+
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/4.PNG)
+
+<h1>控制视图</h1>
+
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/3.PNG)
+
+<h1>统计视图</h1>
+
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/5.PNG)
+
+<h1>时间轴视图</h1>
+
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/6.PNG)
+
+<h1>时间轴视图</h1>
+
+![Image text](https://github.com/ZhangLangZhong/dyn-Vis-System-master/blob/master/static/img/7.PNG)
